@@ -33,6 +33,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gkrusta&theme=dark)](https://git.io/streak-stats)
 
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrusta)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrusta&size_weight=0.5&count_weight=0.5)
