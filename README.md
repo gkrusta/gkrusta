@@ -24,3 +24,9 @@
 - :mailbox:  How to reach me:  <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 20px;"/>
   </a>
+
+  ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gkrusta&theme=dark)](https://git.io/streak-stats)
