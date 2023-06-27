@@ -11,10 +11,3 @@
   </a>
 </div>
 
-<style>
-#header, #badges {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-</style>
