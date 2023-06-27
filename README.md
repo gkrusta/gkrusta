@@ -14,11 +14,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
----
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope:  Here I showcase my projects as a student from 42 Malaga, focusing on C language development and programming.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling:  Currently, I am a beginner programmer, focused on learning and developing my skills in C programming. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap:  Feel free to reach out to me if you are looking for any of these project descriptions and guidance. 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-krusta-a32207251/)
