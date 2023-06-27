@@ -21,4 +21,6 @@
 
 - :zap:  Feel free to reach out to me if you are looking for any of these project descriptions and guidance. 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-krusta-a32207251/)
+- :mailbox:  How to reach me:  <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
