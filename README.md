@@ -19,7 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=gkrusta&style=flat-square&color=blue" alt=""/>
 </div>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/gkrusta?UM6P=off" alt="gkrusta's 42 stats" /></a>
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/gkrusta?UM6P=off" alt="gkrusta's 42 stats" /></a>
+</div>
 
 - :telescope:  Here I showcase my projects as a student from 42 Malaga, focusing on C language development and programming.
 
@@ -35,7 +37,8 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gkrusta&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gkrusta&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrusta&layout=compact&theme=dark)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrusta&layout=compact&theme=dark)
+</div>
