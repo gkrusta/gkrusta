@@ -22,9 +22,8 @@
 </div>
 
 <div align="center">
-  <a [![gkrusta's 42 stats](https://badge.mediaplus.ma/black/gkrusta?UM6P=off)](https://github.com/oakoudad/badge42) /></a>
+  [![gkrusta's 42 stats](https://badge.mediaplus.ma/black/gkrusta?UM6P=off)](https://github.com/oakoudad/badge42)
 </div>
-
 
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
