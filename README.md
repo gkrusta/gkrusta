@@ -25,26 +25,22 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/gkrusta?UM6P=off" alt="gkrusta's 42 stats" /></a>
 </div>
 
+
 <div align="center">
-- :telescope:  Here I showcase my projects as a student from 42 Malaga, focusing on C language development and programming.
-
-- :seedling:  Currently, I am a beginner programmer, focused on learning and developing my skills in C programming. 
-
-- :zap:  Feel free to reach out to me if you are looking for any of these project descriptions and guidance. 
-
-- :mailbox:  How to reach me:  <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
+  <h3>:telescope: Welcome to my GitHub profile!</h3>
+  <p>As a student from 42 Malaga, I'm passionate about C language development and programming.</p>
+  <p>:seedling: Currently, I'm a beginner programmer, focused on learning and developing my skills in C programming.</p>
+  <p>:zap: If you're looking for project descriptions and guidance, feel free to reach out to me.</p>
+  <p>:mailbox: How to reach me:</p>
+  <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 20px;"/>
   </a>
 </div>
 
-  ---
-
-### :fire: My Stats :
+---
 
 <div align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gkrusta&theme=dark)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrusta&layout=compact&theme=dark)
+  <h3>:fire: My Stats:</h3>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=gkrusta&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkrusta&layout=compact&theme=dark" alt="Top Languages" />
 </div>
