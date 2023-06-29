@@ -12,6 +12,8 @@
 </div>
 
   ---
+
+[![wakatime](https://wakatime.com/badge/user/ecfc9331-17b8-457f-a61f-23a6d4784b6d.svg)](https://wakatime.com/@ecfc9331-17b8-457f-a61f-23a6d4784b6d)
   
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
