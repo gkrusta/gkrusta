@@ -27,8 +27,8 @@
 
 
 <div align="center">
-  <h3>:telescope: Welcome to my GitHub profile!</h3>
-  <p>As a student from 42 Malaga, I'm passionate about C language development and programming.</p>
+  <h3>:Welcome to my GitHub profile!</h3>
+  <p>:telescope: As a student from 42 Malaga, I'm passionate about C language development and programming.</p>
   <p>:seedling: Currently, I'm a beginner programmer, focused on learning and developing my skills in C programming.</p>
   <p>:zap: If you're looking for project descriptions and guidance, feel free to reach out to me.</p>
   <p>:mailbox: How to reach me:
