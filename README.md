@@ -13,8 +13,6 @@
 
   ---
 
-[![wakatime](https://wakatime.com/badge/user/ecfc9331-17b8-457f-a61f-23a6d4784b6d.svg)](https://wakatime.com/@ecfc9331-17b8-457f-a61f-23a6d4784b6d)
-
 <a href="https://wakatime.com/@ecfc9331-17b8-457f-a61f-23a6d4784b6d"><img src="https://wakatime.com/badge/user/ecfc9331-17b8-457f-a61f-23a6d4784b6d.svg" alt="Total time coded since Jun 29 2023" /></a>
   
 <div align="center">
