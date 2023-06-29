@@ -12,9 +12,11 @@
 </div>
 
   ---
-
-<a href="https://wakatime.com/@ecfc9331-17b8-457f-a61f-23a6d4784b6d"><img src="https://wakatime.com/badge/user/ecfc9331-17b8-457f-a61f-23a6d4784b6d.svg" alt="Total time coded since Jun 29 2023" /></a>
   
+<div align="center">
+  <a href="https://wakatime.com/@ecfc9331-17b8-457f-a61f-23a6d4784b6d"><img src="https://wakatime.com/badge/user/ecfc9331-17b8-457f-a61f-23a6d4784b6d.svg"     alt="Total time coded since Jun 29 2023" /></a>
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gkrusta&style=flat-square&color=blue" alt=""/>
 </div>
@@ -23,6 +25,7 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/gkrusta?UM6P=off" alt="gkrusta's 42 stats" /></a>
 </div>
 
+<div align="center">
 - :telescope:  Here I showcase my projects as a student from 42 Malaga, focusing on C language development and programming.
 
 - :seedling:  Currently, I am a beginner programmer, focused on learning and developing my skills in C programming. 
@@ -32,6 +35,7 @@
 - :mailbox:  How to reach me:  <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 20px;"/>
   </a>
+</div>
 
   ---
 
@@ -39,6 +43,8 @@
 
 <div align="center">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gkrusta&theme=dark)](https://git.io/streak-stats)
+</div>
 
+<div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrusta&layout=compact&theme=dark)
 </div>
