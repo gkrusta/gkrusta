@@ -21,9 +21,11 @@
   <img src="https://komarev.com/ghpvc/?username=gkrusta&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  [![gkrusta's 42 stats](https://badge.mediaplus.ma/black/gkrusta?UM6P=off)](https://github.com/oakoudad/badge42)
-</div>
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/black/gkrusta?UM6P=off" alt="gkrusta's 42 stats">
+  </a>
+</p>
 
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
