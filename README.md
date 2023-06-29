@@ -16,7 +16,7 @@
 <a href="https://wakatime.com/@ecfc9331-17b8-457f-a61f-23a6d4784b6d"><img src="https://wakatime.com/badge/user/ecfc9331-17b8-457f-a61f-23a6d4784b6d.svg" alt="Total time coded since Jun 29 2023" /></a>
   
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=gkrusta&style=flat-square&color=blue" alt=""/>
 </div>
 
 - :telescope:  Here I showcase my projects as a student from 42 Malaga, focusing on C language development and programming.
