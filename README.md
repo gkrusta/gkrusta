@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 
   ---
@@ -30,7 +27,7 @@
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
   <p>:telescope: As a student from 42 Malaga, I'm passionate about C language development and programming.</p>
-  <p>:seedling: Currently, I'm a beginner programmer, focused on learning and developing my skills in C programming.</p>
+  <p>:seedling: Currently, I'm a beginner programmer, focused on learning and developing my skills in C & C++ programming.</p>
   <p>:zap: If you're looking for project descriptions and guidance, feel free to reach out to me.</p>
   <p>:mailbox: How to reach me:
   <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
