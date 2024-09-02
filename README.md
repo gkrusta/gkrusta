@@ -27,7 +27,7 @@
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
   <p>:telescope: As a student from 42 Malaga, I'm passionate about C language development and programming.</p>
-  <p>:seedling: Currently, I'm a beginner programmer, focused on learning and developing my skills in C & C++ programming.</p>
+  <p>:seedling: Most of my projects are done in C & C++ where I have the strongest knowledge. Currently I'm focused on learning and developing my skills in python and django. </p>
   <p>:zap: If you're looking for project descriptions and guidance, feel free to reach out to me.</p>
   <p>:mailbox: How to reach me:
   <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
