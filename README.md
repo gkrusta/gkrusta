@@ -26,8 +26,9 @@
 
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
-  <p>:telescope: As a student from 42 Malaga, I'm passionate about C language development and programming.</p>
-  <p>:seedling: Most of my projects are done in C & C++ where I have the strongest knowledge. Currently I'm focused on learning and developing my skills in python and django. </p>
+  <p>:telescope: I'm student from 42 Malaga working as IT Application Production Support for Corporate and Investment Banking.</p>
+  <p>:computer: Most of my projects have been in C, C++ and Python, where I have the strongest foundation. </p>
+  <p>:rocket: Right now i'm engaged in Outer Core projects centered on data and machine learning.</p>
   <p>:zap: If you're looking for project descriptions and guidance, feel free to reach out to me.</p>
   <p>:mailbox: How to reach me:
   <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
