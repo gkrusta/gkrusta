@@ -26,7 +26,7 @@
 
 <div align="center">
   <h3>Welcome to my GitHub profile!</h3>
-  <p>:telescope: I'm student from 42 Malaga working as IT Application Production Support for Corporate and Investment Banking.</p>
+  <p>:telescope: I'm student from 42 Malaga working as IT Application Production analyst in datalake.</p>
   <p>:computer: Most of my projects have been in C, C++ and Python, where I have the strongest foundation. </p>
   <p>:rocket: Right now i'm engaged in Outer Core projects centered on data and machine learning.</p>
   <p>:zap: If you're looking for project descriptions and guidance, feel free to reach out to me.</p>
