@@ -5,7 +5,6 @@
   <p> I'm Gabriela, I study at 42 Málaga and spend most of my time doing things with data.</p>
   <p> Cleaning it, modeling it, making predictions and occasionally arguing with it. </p>
   <p> Here are some of my 42 projects and other stuff. </p>
-  <p> How to reach me:
 
 <p align="f">
   <a href="https://github.com/oakoudad/badge42">
