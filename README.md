@@ -6,9 +6,7 @@
   <p> Cleaning it, modeling it, making predictions and occasionally arguing with it. </p>
   <p> Here are some of my 42 projects and other stuff. </p>
   <p> How to reach me:
-  <a href="https://www.linkedin.com/in/gabriela-krusta-a32207251/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 20px;"/>
-  </a></p>
+
 <p align="f">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/black/gkrusta?UM6P=off" alt="gkrusta's 42 stats">
